@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @zummyJP
+- 🌱 I’m currently learning github.
