@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @zummyJP
-- 🌱 I’m currently learning github.
+- 👋 Hi, I stay in gj80k.
