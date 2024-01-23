@@ -1,1 +1,1 @@
-- 👋 Hi, I stay in gj80k.
+- i'm in gj80k
